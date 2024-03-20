@@ -8,4 +8,6 @@ Problem 3: Write a pyspark application to demonstrates the usage of logging, tqd
 
 Problem 4: Write a pyspark application to clean and transform in-memory data containing missing values and inconsistencies before creating a PySpark DataFrame.
 
-Problem 5: Write a pysparl application to add an "index-like" column to a PySpark DataFrame.
+Problem 5: Write a pyspark application to add an "index-like" column to a PySpark DataFrame.
+
+Problem 6: Develope a pyspark application to calculate the month-wise cumulative revenue.

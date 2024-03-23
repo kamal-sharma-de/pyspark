@@ -11,3 +11,5 @@ Problem 4: Write a pyspark application to clean and transform in-memory data con
 Problem 5: Write a pyspark application to add an "index-like" column to a PySpark DataFrame.
 
 Problem 6: Develope a pyspark application to calculate the month-wise cumulative revenue.
+
+Problem 7: Design a single Spark program to perform an ELT process with complex user-defined transformations, data optimization, and potential performance tuning.

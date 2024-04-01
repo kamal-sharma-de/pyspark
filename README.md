@@ -15,3 +15,5 @@ Problem 6: Develope a pyspark application to calculate the month-wise cumulative
 Problem 7: Design a single Spark program to perform an ELT process with complex user-defined transformations, data optimization, and potential performance tuning.
 
 Problem 8: Generate a PySpark code to mask the first 12 digits of a 16-digit credit card number and display only the last 4 digits.(CreditCardMasking.py)
+
+Problem 9: Develop a performant PySpark data pipeline that reads data, applies a user-defined transformation on a specific column. (SentimentScore.py)

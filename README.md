@@ -19,3 +19,5 @@ Problem 8: Generate a PySpark code to mask the first 12 digits of a 16-digit cre
 Problem 9: Develop a performant PySpark data pipeline that reads data, applies a user-defined transformation on a specific column. (SentimentScore.py)
 
 Problem 10: Develop Apache Spark application to analyze and prepare flight data for further exploration. (ProcessFlights.py)
+
+Problem 11: Analyze customer purchase data to find total purchases per customer and top 10 revenue-generating products. (CustomerPurchases.py)

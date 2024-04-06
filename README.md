@@ -17,3 +17,5 @@ Problem 7: Design a single Spark program to perform an ELT process with complex 
 Problem 8: Generate a PySpark code to mask the first 12 digits of a 16-digit credit card number and display only the last 4 digits.(CreditCardMasking.py)
 
 Problem 9: Develop a performant PySpark data pipeline that reads data, applies a user-defined transformation on a specific column. (SentimentScore.py)
+
+Problem 10: Develop Apache Spark application to analyze and prepare flight data for further exploration. (ProcessFlights.py)

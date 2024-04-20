@@ -23,3 +23,5 @@ Problem 10: Develop Apache Spark application to analyze and prepare flight data 
 Problem 11: Develop a PySpark script (filename: FlattenComplexJson.py) to parse deeply nested JSON data (6 levels), flatten it, and perform user-defined transformations.
 
 Problem 11: Analyze customer purchase data to find total purchases per customer and top 10 revenue-generating products. (CustomerPurchases.py)
+
+Problem 12: Write a pyspark code to concatenate two dataframes having  sligh different schemas. (ConcatenateDataFrames.py)

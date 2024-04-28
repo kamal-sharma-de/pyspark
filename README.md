@@ -25,3 +25,5 @@ Problem 11: Develop a PySpark script (filename: FlattenComplexJson.py) to parse 
 Problem 11: Analyze customer purchase data to find total purchases per customer and top 10 revenue-generating products. (CustomerPurchases.py)
 
 Problem 12: Write a pyspark code to concatenate two dataframes having  sligh different schemas. (ConcatenateDataFrames.py)
+
+Problem 13: Given a text file where each line contains a name followed by a person's speech, develop a PySpark application to count the case-insensitive occurrences of the word "spark" in each person's speech, and print the name of the person followed by a colon (':') and the corresponding "spark" count for each line. (PersonWordCount.py)

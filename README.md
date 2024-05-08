@@ -28,4 +28,4 @@ Problem 12: Write a pyspark code to concatenate two dataframes having  sligh dif
 
 Problem 13: Given a text file where each line contains a name followed by a person's speech, develop a PySpark application to count the case-insensitive occurrences of the word "spark" in each person's speech, and print the name of the person followed by a colon (':') and the corresponding "spark" count for each line. (PersonWordCount.py)
 
-Problem 14: Develop a pyspark program to demonstrate how we can ensure data processing continues uninterrupted even when worker nodes in the cluster fail.
+Problem 14: Develop a pyspark program to demonstrate how we can ensure data processing continues uninterrupted even when worker nodes in the cluster fail. (FaultToleranceExample.py)
